@@ -1,6 +1,6 @@
 global class Opp2create_reprice_finalize_Sync_batch implements Database.Batchable<sObject> {
   
-  /*
+    /*
       Created By: Praveen Makam
       Date: 05/10/2017
       Project: Batch class to reprice, finalize & sync quotelineitems to Opportunity.
